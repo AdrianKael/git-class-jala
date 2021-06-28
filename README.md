@@ -5,3 +5,4 @@ Git Course Jala
 
 # Comment for Branch 2 - Commit 1
 # Comment for Branch 2 - Commit 2
+# Comment for Branch 2 - Commit 3
